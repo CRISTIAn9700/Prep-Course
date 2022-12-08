@@ -17,6 +17,7 @@ function mayoriaDeEdad(edad) {
   //Si tiene 18 años ó más, devolver --> "Allowed"
   //Si es menor, devolver --> "Not allowed"
   // ternario return edad >= 18? "Allowed : "Not allowed
+  // comentario
   if (edad < 18) return 'Not allowed';
   if (edad >= 18) return 'Allowed'
 
