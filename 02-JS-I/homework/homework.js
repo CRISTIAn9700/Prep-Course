@@ -243,8 +243,9 @@ function esVocal(letra){
   return "Dato incorrecto";
   
 }
-
-
+/* Debo revisar mas a fondo los operadores matematicos Math y memorizar funciones de cada uno de sus extenciones
+ademas leer bien las consignas para asegurarme de caul es el requermiento en especifico
+*/
 
 // No modificar nada debajo de esta línea
 // --------------------------------
